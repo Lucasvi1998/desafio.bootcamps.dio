@@ -1,4 +1,4 @@
-# Desafio Bootcamp🙃
+# Desafio Bootcamp
 
 ### Os requisitos são:
 
