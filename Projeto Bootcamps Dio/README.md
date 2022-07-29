@@ -1,6 +1,6 @@
 # Desafio Bootcamp
 
-### O disafio do Bootcamp da Dio é desenvolver a tela do login do Instagram
+### O disafio do Bootcamp é desenvolver a tela do login do Instagram
 
 
 
